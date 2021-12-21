@@ -51,3 +51,5 @@ Alguns dos impactos negativos de uma taxa churn rate elevada são:
 # 3.0 Solução
 
 A análise de dados para este desafio foi realizada no software **POWER BI**.
+
+![02](https://github.com/nickolasdias/topbankcompany/blob/master/image/02.png)
