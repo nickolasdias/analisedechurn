@@ -53,3 +53,29 @@ Alguns dos impactos negativos de uma taxa churn rate elevada são:
 A análise de dados para este desafio foi realizada no software **POWER BI**.
 
 ![01](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/01.png)
+
+![02](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/02.png)
+
+![03](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/03.png)
+
+![04](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/04.png)
+
+![05](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/05.png)
+
+![06](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/06.png)
+
+![07](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/07.png)
+
+![08](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/08.png)
+
+![09](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/09.png)
+
+![10](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/10.png)
+
+![11](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/11.png)
+
+![12](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/12.png)
+
+![13](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/13.png)
+
+![14](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/14.png)
