@@ -60,15 +60,19 @@ Alguns dos impactos negativos de uma taxa churn rate elevada são:
 
 **Observação:** A análise de dados foi realizada no software **POWER BI**.
 
-Para responder as questões do desafio, analisei os dados considerando o número de dependentes de cada cliente.
+Para responder as questões do desafio, analisei os dados filtrando o número de dependentes de cada cliente para cada dashboard.
 
-## Análise geral
+<h3> Análise geral </h3>
 
 ![01](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/01.png)
+
+<h3> Análise considerando Clientes com nenhum Dependente </h3>
 
 ![02](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/02.png)
 
 ![03](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/03.png)
+
+
 
 ![04](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/04.png)
 
