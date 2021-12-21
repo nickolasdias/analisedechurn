@@ -60,12 +60,20 @@ Alguns dos impactos negativos de uma taxa churn rate elevada são:
 
 **Observação:** A análise de dados foi realizada no software **POWER BI**.
 
-Para responder as questões do desafio, analisei os dados filtrando o número de dependentes de cada cliente para cada dashboard.
+Para responder as questões do desafio, analisei os dados filtrando o número de dependentes que cada cliente tem nos seguintes dashboards.
 
 <h3> Análise geral </h3>
 
 ![01](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/01.png)
 
+**Observação:**
+
+- A instituição bancária têm 10.130 clientes com uma taxa de Churn de 16,07%
+- Clientes do gênero feminino tem uma taxa de churn um pouco maior do que clientes do gênero masculino.
+- Clientes com cartão do tipo blue tem a maior taxa de churn.
+- As faixa etárias de clientes 
+- Clientes com faixa de renda de menos de 40000 tem uma maior taxa de churn (6,04%) do que as demais faixa de renda.
+-   
 
 ![02](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/02.png)
 
