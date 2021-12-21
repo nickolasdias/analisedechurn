@@ -66,31 +66,40 @@ Para responder as questões do desafio, analisei os dados filtrando o número de
 
 ![01](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/01.png)
 
-<h3> Análise considerando Clientes com nenhum Dependente </h3>
 
 ![02](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/02.png)
 
+<h3> Análise considerando Clientes com nenhum Dependente </h3>
+
 ![03](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/03.png)
 
-
-
 ![04](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/04.png)
+
+<h3> Análise considerando Clientes com um Dependente </h3>
 
 ![05](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/05.png)
 
 ![06](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/06.png)
 
+<h3> Análise considerando Clientes dois um Dependentes </h3>
+
 ![07](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/07.png)
 
 ![08](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/08.png)
+
+<h3> Análise considerando Clientes com três Dependentes </h3>
 
 ![09](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/09.png)
 
 ![10](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/10.png)
 
+<h3> Análise considerando Clientes com quatro Dependentes </h3>
+
 ![11](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/11.png)
 
 ![12](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/12.png)
+
+<h3> Análise considerando Clientes com cinco Dependentes </h3>
 
 ![13](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/13.png)
 
