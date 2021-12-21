@@ -48,9 +48,21 @@ Alguns dos impactos negativos de uma taxa churn rate elevada são:
 # 2.0 Desafio
 
 
+- O gênero dos clientes influenciam na taxa de churn?
+- O tipo de cartão de cartão de crédito influencia na taxa de churn ?
+- Qual faixa etária dos clientes está propensa a ter churn ?
+- Qual faixa de renda dos clientes está propensa a ter churn ?
+- O estado civil dos clientes influência na taxa de churn ?
+- Qual nível educacional dos clientes influência na taxa de churn ?
+- 
+
 # 3.0 Solução
 
-A análise de dados para este desafio foi realizada no software **POWER BI**.
+**Observação:** A análise de dados foi realizada no software **POWER BI**.
+
+Para responder as questões do desafio, analisei os dados considerando o número de dependentes de cada cliente.
+
+## Análise geral
 
 ![01](https://github.com/nickolasdias/analisedechurn/blob/main/dashboards/01.png)
 
